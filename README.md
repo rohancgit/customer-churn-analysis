@@ -6,7 +6,7 @@
 
 [![Dataset](https://img.shields.io/badge/Dataset-Cleaned_CSV-green)](./churn_clean.csv)
 
-![Power BI](https://img.shields.io/badge/Power_BI-3_Page_Dashboard-yellow?logo=powerbi)
+[![Power BI](https://img.shields.io/badge/Power_BI-3_Page_Dashboard-yellow?logo=powerbi)](./Dashboard%20Screenshots)
 
 ![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
 
