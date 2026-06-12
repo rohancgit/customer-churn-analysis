@@ -1,12 +1,14 @@
 # Customer Churn Analysis — Telecom Industry
 
-[![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)](./churnanalysis(1).ipynb)
+[![Python](https://img.shields.io/badge/Python-EDA-blue?logo=python)](./churnanalysis.ipynb)
 
-[![MySQL](https://img.shields.io/badge/MySQL-8.0-orange?logo=mysql)](./churnsql.sql)
+[![MySQL](https://img.shields.io/badge/MySQL-Queries-orange?logo=mysql)](./churnsql.sql)
 
-[![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow?logo=powerbi)](./Customer_Churn_Dashboard.pbix)
+[![Dataset](https://img.shields.io/badge/Dataset-Cleaned_CSV-green)](./churn_clean.csv)
 
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![Power BI](https://img.shields.io/badge/Power_BI-3_Page_Dashboard-yellow?logo=powerbi)
+
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
 
 ## Project overview
 
