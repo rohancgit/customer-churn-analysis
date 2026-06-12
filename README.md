@@ -165,7 +165,7 @@ Senior citizens churn at **41.7%** vs 23.7% for non-seniors. Fiber optic custome
 **Rohan** — Data Analyst with 2 years of MIS analytics experience.  
 Skills: SQL · Python · Power BI · Excel · Data Cleaning · EDA · Dashboard Design
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/rohan-chavan-4b2a0540b/))
 
 ---
 
