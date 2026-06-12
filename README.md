@@ -1,6 +1,6 @@
 # Customer Churn Analysis — Telecom Industry
 
-[![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)](./churnanalysis.ipynb)
+[![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)](./churnanalysis(1).ipynb)
 
 [![MySQL](https://img.shields.io/badge/MySQL-8.0-orange?logo=mysql)](./churnsql.sql)
 
