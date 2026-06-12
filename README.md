@@ -155,4 +155,4 @@ Skills: SQL · Python · Power BI · Excel · Data Cleaning · EDA · Dashboard 
 Show Image
 
 
-This project is part of my data analytics portfolio. Dataset used for educational and portfolio purposes.
+This project is part of my data analytics portfolio. Dataset used for educational and
